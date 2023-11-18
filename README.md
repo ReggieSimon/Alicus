@@ -26,6 +26,8 @@ that is affecting his world and the lives of others.
 ## Character 
 
 ### Max Seymour 
+● A mentalist detective, considered as one of
+the best detectives in the entirety of New York City
 ![Max Seymour - Idle Sheet](https://github.com/ReggieSimon/Alicus/assets/70024190/06f27b11-f012-4ee9-a2cd-ed168cbd51a2)
 
 
