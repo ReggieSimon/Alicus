@@ -8,15 +8,20 @@ Made in Unity
 A 2D action-platformer where Max Seymour must catch up to a serial killer on the loose
 that is affecting his world and the lives of others.
 
-## Menu Design 
-![image](https://github.com/ReggieSimon/Alicus/assets/70024190/e183af07-c91a-4d72-bcb3-c872119dc47a)
+## Mechanics
+
+● The player must pass through every level for the narrative of the story to progress
+● The player has three lives for the entire playthrough.
+
 
 ## Controls 
 
-WASD - Movement 
-Shift - Sprint
-Left Click - Fire 
+● WASD - Movement 
+● Shift - Sprint
+● Left Click - Fire 
 
+## Menu Design 
+![image](https://github.com/ReggieSimon/Alicus/assets/70024190/e183af07-c91a-4d72-bcb3-c872119dc47a)
 
 
 
