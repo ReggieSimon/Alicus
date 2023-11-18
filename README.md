@@ -23,5 +23,11 @@ that is affecting his world and the lives of others.
 ## Menu Design 
 ![image](https://github.com/ReggieSimon/Alicus/assets/70024190/e183af07-c91a-4d72-bcb3-c872119dc47a)
 
+## Character 
+
+### Max Seymour 
+![Max Seymour - Idle Sheet](https://github.com/ReggieSimon/Alicus/assets/70024190/06f27b11-f012-4ee9-a2cd-ed168cbd51a2)
+
+
 
 
